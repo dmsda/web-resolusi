@@ -1,0 +1,5 @@
+WEB RESOLUSI 2021
+- Belajar HTML, CSS, JS, dan Framework
+- Belajar PHP, dan Framework
+- Belajar membuat Tema Wordpress
+- Belajar membuat Aplikasi berbasis Web
